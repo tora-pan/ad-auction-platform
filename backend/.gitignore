@@ -1,0 +1,40 @@
+# Gradle
+.gradle/
+build/
+gradle/wrapper/gradle-wrapper.properties
+.gradletasknamecache
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+.classpath
+.project
+.settings/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
